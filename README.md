@@ -1,4 +1,4 @@
-# tour_of_go
+# Tour of Go
 Tour of Go exercises
 https://tour.golang.org/list
 
