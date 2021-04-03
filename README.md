@@ -10,3 +10,6 @@ https://tour.golang.org/moretypes/18
 
 wc.go
 https://tour.golang.org/moretypes/23
+
+fib.go
+https://tour.golang.org/moretypes/26
